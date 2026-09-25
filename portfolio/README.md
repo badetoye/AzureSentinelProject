@@ -54,9 +54,9 @@ At a glance:
 | **Log Analytics workspace** | 1 — `LAWmuler`, Sentinel-enabled |
 | **Attack simulated** | SSH brute force (Hydra) → detected in Sentinel |
 
-### 📊 Presentation
+### Presentation
 
-The full project is also available as a slide deck (charcoal & molten-orange theme, 25 slides):
+The full project is also available as a slide deck:
 
 - **[Download the PowerPoint](Azure-Security-SIEM-Deployment.pptx)** (`.pptx`)
 - **[View the PDF](Azure-Security-SIEM-Deployment.pdf)** — renders inline on GitHub, no PowerPoint needed
