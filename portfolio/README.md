@@ -222,6 +222,7 @@ Before attacking, the connection path was confirmed: destination VM, public IP, 
 <sub>**Figure 9** — NSG diagnostics confirm `UserRule_SSH` on `UbuntuVM-nsg` explicitly allows port 22 from the source IP.</sub>
 
 ![Connection prerequisites](assets/10-connection-prerequisites.png)
+
 <sub>**Figure 10** — Entra ID SSH extension and a system-assigned managed identity are configured, enabling keyless Cloud Shell access.</sub>
 
 ### Launching the brute force
